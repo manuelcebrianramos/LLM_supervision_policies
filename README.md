@@ -1,5 +1,5 @@
 
-# Supervision Policies Can Shape Long-Term Risk Management in General Purpose AI Models
+# Supervision Policies Can Shape Long-Term Risk Management in General-Purpose AI Models
 
 This repository contains the code and simulation data for the research project **"Supervision Policies Can Shape Long-Term Risk Management in General Purpose AI Models."** The project explores the use of simulation-based frameworks to evaluate and design supervision strategies for mitigating risks associated with general-purpose AI models.
 
